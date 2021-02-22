@@ -7,7 +7,6 @@
 #include <iostream>
 
 #include "cadre.hpp"
-#include <iostream>
 
 using namespace std;
 
